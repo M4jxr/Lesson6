@@ -110,5 +110,5 @@ class Homework
         Console.Write("\n");
     }
 }
-
+//checked
   
